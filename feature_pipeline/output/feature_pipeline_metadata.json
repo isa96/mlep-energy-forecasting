@@ -1,0 +1,9 @@
+{
+    "days_delay": 15,
+    "days_export": 30,
+    "url": "https://api.energidataservice.dk/dataset/ConsumptionDE35Hour?offset=0&sort=HourUTC&timezone=utc&start=2023-05-13T22:00&end=2023-06-12T22:00",
+    "export_datetime_utc_start": "2023-05-13T22:00:00Z", 
+    "export_datetime_utc_end": "2023-06-12T22:00:00Z", 
+    "datetime_format": "%Y-%m-%dT%H:%M:%SZ", 
+    "feature_group_version": 1
+}
